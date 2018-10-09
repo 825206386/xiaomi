@@ -1,0 +1,65 @@
+.daogou{
+	width: 1226px;
+	margin: 0 auto;
+	height:362px;
+	overflow: hidden;
+}
+.aside-nav{
+	width: 234px;
+	height: 362px;
+	background: #604E4C;
+	float: left;
+	position: relative;
+	
+}
+.aside-nav .xs {
+	border: 1px solid #cccccc;
+	border-top: none;
+	display: none;
+	width: 994px;
+	position: absolute;
+	height:362px;
+	top:1px;
+	left:234px;
+	z-index:999;
+	background:#FFFFFF;
+}
+.aside-nav ul li{
+	padding-left: 25px;
+	padding-right: 30px;
+	font-size: 16px;
+	padding-top: 12px;
+	color: #FFFFFF;
+	width: 234px;
+	height: 40px;
+}
+.aside-nav ul li span{
+	width: 10px;
+	float: right;
+}
+.xs ul li{
+	height: 77px;
+	width: 265px;
+	float: left;
+}
+.xs ul li img{
+	width: 40px;
+	height: 40px;
+}
+.xs ul li b{
+	color: #000000;
+	font-weight: normal;
+	font-size: 14px;
+}
+.xxxx:hover{
+	background: orange;
+}
+.xxxx:hover .xs {
+	display: block;
+}
+/*轮播图*/
+.section-nav{
+	width: 992px;
+	height: 362px;
+	float: right;
+}

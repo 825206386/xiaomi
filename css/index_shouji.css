@@ -1,0 +1,46 @@
+.shouji{
+	height: 672px;
+	width: 1226px;
+	margin:30px auto;
+}
+.shouji_title{
+	height: 58px;
+	overflow: hidden;
+}
+.shouji_title p{
+	float: left;
+	line-height: 58px;
+	font-size: 24px;	
+}
+.shouji_title img{
+float: right;
+width: 20px;
+height: 20px;
+margin-top: 20px;
+}
+.shouji_title b{
+float: right;
+margin-top: 20px;
+}
+.shouji_img{
+float: left;
+height: 615px;
+width: 234px;
+}
+.shouji_right{
+    height:615px;
+	width: 975px;
+	float: right;
+}
+.shouji_right_ul .xmshangou-sp{
+height: 300px;
+border: hidden;
+}
+
+.xxksp>li{
+	display: none;
+}
+.xxksp>li:nth-of-type(1){
+	display: block;
+}
+

@@ -1,0 +1,25 @@
+.weinituijian{
+	position:relative;
+	height: 339px;
+	width: 1226px;
+	overflow: hidden;
+}
+.weinituijianlbt{
+	width: 9999px;
+    position: relative;
+}
+.weinituijian-sp{
+	margin-right: 12px;
+	height: 340px;
+	float: left;
+	width: 234px;
+	background: #FAFAFA;
+}
+.weinituijian-sp:nth-of-type(5n){
+	margin-right: 0px;
+}
+.weinituijian-sp img{
+	width: 160px;
+	height: 166px;
+	margin-left:34px;
+}

@@ -1,0 +1,163 @@
+/*底部服务栏*/
+
+.dxlb {
+	height: 80px;
+	clear: both;
+	border-bottom: 1px solid #F2DEDE;
+	width: 1226px;
+	margin: auto;
+}
+
+.dxlb ul li {
+	width: 20%;
+	float: left;
+	line-height: 80px;
+	text-align: center;
+}
+
+.dxlb ul li img {
+	width: 25px;
+	height: 25px;
+}
+
+
+/*帮助中心*/
+
+.foot-a {
+	height: 192px;
+	width: 1226px;
+	margin: auto;
+}
+
+.foot-a table {
+	width: 800px;
+	margin-top: 20px;
+	line-height: 40px;
+	float: left;
+}
+
+.foot-a table tr th a {
+	text-decoration: none;
+}
+
+.trb th {
+	font-weight: bold;
+}
+
+.foot-a .lxdh {
+	width: 251px;
+	float: right;
+}
+
+.foot-a .lxdh .lx {
+	text-align: center;
+	margin-top: 40px;
+	border-left: 1px solid #0F0F0F;
+}
+
+.foot-a .lxdh .lx span {
+	font-size: 30px;
+	color: orange;
+}
+
+.foot-a .lxdh .lx button {
+	border: 1px solid orange;
+	color: orange;
+	background: none;
+}
+
+
+/*底部*/
+
+footer {
+	height: 195px;
+	width: 1226px;
+	margin: auto;
+}
+
+footer .foot-bt ul {
+	height: 20px;
+}
+
+footer .foot-bt ul li {
+	font-size: 8px;
+	float: left;
+	height: 20px;
+	line-height: 40px;
+}
+
+footer .foot-bt p {
+	font-size: 8px;
+	margin-left: 83px;
+}
+
+.b-nav-left img {
+	width: 55px;
+	height: 55px;
+	margin-left: -16px;
+}
+
+.imgb {
+	float: right;
+}
+
+.imgb img {
+	width: 83px;
+	height: 28px;
+}
+
+.hkj {
+	text-align: center;
+	font-size: 24px;
+	font-family: "楷体";
+}
+
+a {
+	color: #C0C0C0;
+}
+
+a:hover {
+	color: orange;
+}
+
+.foot-xu {
+	/*background: #FFFF00;*/
+}
+
+.pic_info {
+	width: 234px;
+	height: 80px;
+	background: #FF6700;
+	text-align: center;
+	
+	position: absolute;
+	bottom: -114px;
+}
+.pic_info p:nth-of-type(1){
+	margin-top: 10px;
+	font-size: 18px;
+	color: #F4F4F4;
+}
+.pic_info p:nth-of-type(2){
+	font-size: 14px;
+	color:#C0C0C0 ;
+}
+.result {
+	overflow: hidden;
+	position: relative;
+}
+
+.result:hover .pic_info {
+	bottom: 0px;
+	transition: all 0.5s;
+}
+
+
+/*后期修改的效果*/
+
+.result:hover {
+	position: relative;
+	top: -3px;
+	left: -1px;
+	box-shadow: 0px 1px 1px 0px #aaa;
+}

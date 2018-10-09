@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+		
+}
+li,img,p,span,b{
+	cursor:pointer;
+}
+body {
+	background: #F5F5F5;
+}
+header {
+	height: 37px;
+	background: #333333;
+}
+
+.header-box {
+	width: 1226px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.header-left {
+	width: 50%;
+}
+
+.header-left ul li {
+	float: left;
+}
+
+.header-left ul li a,
+.header-right ul li a {
+	color: #777777;
+	font-size: 13px;
+	text-decoration: none;
+}
+.header-right {
+	width: 48%;
+	float: right;
+}
+.header-right img {
+	height: 13px;
+}
+.header-right ul li {
+	float: right;
+}
+

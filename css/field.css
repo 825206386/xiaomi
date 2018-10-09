@@ -1,0 +1,49 @@
+.field{
+	position: fixed;
+	bottom: 10%;
+	right: 10px;
+	height: 176px;
+	width:50px;	
+}
+.field div{
+	width: 20px;
+	position: relative;
+}
+.field img{
+	width: 20px;
+	height: 20px;
+}
+.field span{
+	display: inline-block;
+	height: 29px;
+	line-height: 29px;
+	background: #FFFFFF;
+	width: 78px;
+	float: right;
+	position: absolute;
+	right: 35px;
+	display: none;
+	border-radius:3px 2px 2px 3px ;
+	text-align:center;
+}
+.fieldTop{
+	display: none;
+}
+.trigon{
+	position: absolute;
+		height:10px;
+		width:10px;
+		/*border-top:1px solid lime;
+		border-right:1px solid lime;*/
+		transform:rotate(45deg);
+		right: 30px;
+	    top: 8px;
+	    background: #FFFFFF;
+	    display: none;
+}
+.field div:hover .trigon{
+	display: block;
+}
+.field div:hover .hovern{
+	display: block;
+}

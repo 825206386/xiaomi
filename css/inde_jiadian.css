@@ -1,0 +1,63 @@
+.jiadian{
+    height: 672px;
+	width: 1226px;
+	margin:auto;
+}
+.xuanxk{
+height: 42px;
+width: 280px;
+float: right;
+margin-top: 7px;
+}
+.xuanxk li{
+line-height: 42px;
+margin-left:6px ;
+float:left;
+margin-left:33px;
+}
+.left_box{
+float: left;
+height: 615px;
+width: 234px;
+}
+.left_box img{
+width: 234px;
+height: 300px;
+}
+.left_box img:nth-of-type(2){
+margin-top: 15px;
+}
+/*//商品更多两个按钮*/
+.top_box{
+height: 143px;
+background:#FFFFFF;
+}
+.top_box:nth-of-type(2){
+margin-top:14px ;
+}
+
+.top_left{
+width: 134px;
+float: left;
+text-align: center;
+margin-top: 65px;
+}
+.top_right{
+width: 100px;
+float: right;
+}
+.top_right img{
+width: 80px;
+height: 80px;
+margin-top: 45px;
+margin-left: 0px;
+}
+.corr{
+height: 300px;/*更正沿用小米闪购的高度*/
+}
+.geng{
+	background: none;
+}
+.current{
+border-bottom:1px solid orange;
+}

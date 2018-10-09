@@ -1,0 +1,139 @@
+/*头部*/
+.navbar{
+	background: #000000;
+	border: 0;
+}
+/*一栏*/
+.c-jn{
+	background: url(../img/j1.jpg);
+	background-size:100% 480px;
+}
+.c-jn-b{
+	background: 0;
+	border: 1px solid #fff;
+	color: #fff;
+}
+.c-jn-b:hover{
+	background: 0;
+	border: 1px solid #fff;
+	box-shadow: 0px 1px 10px 1px #222222;
+}
+/*二栏*/
+.c-jn1{
+	background: #F6F6F6;
+}
+.col-md-6 .c-jn-t{
+	margin-right: 100px;
+}
+.col-md-6 .c-jn-t img{
+	width: 100%;
+}
+.col-md-6 .c-jn-w p{
+	margin: 0;
+	padding: 0;
+}
+.col-md-6 .c-jn-w .c-jn-p{
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	margin-bottom: 24px;
+}
+.col-md-6 .c-jn-w .c-jn-p2{
+	text-align: left;
+	font-size: 15px;
+}
+.col-md-6 .c-jn-w .c-jn-pp{
+	margin-bottom: 50px;
+}
+/*三栏*/
+.col-md-3 .c-jn-yy{
+	margin: 0;
+	height: 256px;
+}
+.c-jn-yy:hover{
+	box-shadow:0 2px 10px 1px #444444;
+}
+.c-jn-y{
+	border: 1px solid #ECEEF0;
+	height: 154px;
+}
+.c-jn-y .c-j{
+	padding: 0 5px 0 5px;
+}
+.c-jn-y .cb1{
+	font-size: 16px;
+}
+/*四栏*/
+.c-jn3{
+	background: #F6F6F6;
+}
+.c-jn-cr{
+	background: #fff;
+	margin: 0;
+	padding: 15px;
+}
+.c-jn-cr .cb2{
+	text-align: center;
+	font-size: 22px;
+	margin-top: 20px;
+}
+.c-jn-cr .c-ji a{
+	text-decoration: none;
+}
+.c-jn-tu{
+	margin:20px 0 30px 0;
+}
+.c-jn-tu img{
+	height: 40px;
+	margin-right: 10px;
+}
+.c-jn-d{
+	text-align: center;
+	color: #DACFCC;
+	font-size: 16px;
+	margin-top: 40px;
+}
+/*六栏*/
+.c-jn5{
+	background: #292F59;
+}
+.c-img-jn{
+	text-align: center;
+	border: 1px solid #3F4469;
+	padding: 20px;
+}
+.c-img-jn:hover{
+	border: 1px solid #fff;
+}
+.c-img-jn img{
+	height: 48px;
+	width: 48px;
+}
+.c-img-jn p{
+	color: #fff;
+}
+/*七栏*/
+.c-jn6{
+	background: #F6F6F6;
+}
+.c-jns img{
+	width: 100%;
+	padding: 20px;
+}
+.c-jns1{
+	background: #FEDA60;
+}
+.c-jns2{
+	background: #78A5FF;
+}
+.c-jns3{
+	background: #58E2F7;
+}
+/*八栏*/
+.c-jn7{
+	padding: 50px 0 50px 0;
+}
+.c-jn-fb{
+	font-size: 20px;
+	text-align: center;
+}

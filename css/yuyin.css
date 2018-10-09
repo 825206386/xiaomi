@@ -1,0 +1,97 @@
+/*一栏*/
+.c-yu1{
+	background: url(../img/yu1.png);
+	background-color: rgb(255, 113, 64);
+	background-size:100% 480px;
+}
+/*三栏*/
+.c-yu2{
+	background: 0;
+}
+.c-yx{
+	background: #CCCCCC;
+}
+.c-yw{
+	color: #000000;
+}
+.c-yw1{
+	color: #8B8B8B;
+}
+.c-yw1 a{
+	text-decoration: none;
+	color: #1FD6F6;
+}
+/*四栏*/
+.c-yu3{
+	color: #000000;
+}
+.c-jn-cr{
+	height: 340px;
+}
+.c-jn-cr .c-yz1{
+	font-size: 20px;
+}
+.c-jn-cr .c-yz2{
+	font-size: 15px;
+	text-align: left;
+}
+.c-yz2 a{
+	text-decoration: none;
+	color: #1FD6F6;
+}
+.c-ycr{
+	padding-top: 23px;
+}
+.c-jn-tu img{
+	height: 60px;
+	margin-right: 25px;
+}
+.c-yuz a{
+	text-decoration: none;
+	color: #1FD6F6;
+}
+/*五栏*/
+.c-yu4{
+	background: 0;
+}
+.c-yut{
+	margin: 0;
+	margin-top: 70px;
+}
+.c-yut img{
+	width: 100%;
+}
+.c-yu-r{
+	margin-top: 10px;
+	text-align: center;
+}
+/*六栏*/
+.c-yud{
+	background: #fff;
+	padding: 10px;
+	height: 180px;
+}
+.c-yud .cb{
+	margin: 0;
+}
+.c-yud .cp{
+	margin-bottom: 20px;
+}
+/*七栏*/
+.c-yu5{
+	color: #fff;
+	background: #292F59;
+}
+.c-yi .cp{
+	color: #fff;
+}
+/*八栏*/
+.c-yb{
+	padding: 30px 20px 30px 20px;
+}
+.c-yb .cb{
+	text-align: center;
+}
+.c-yb .cp{
+	color: #000000;
+}
