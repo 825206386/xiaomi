@@ -2,6 +2,7 @@
 	height: 397px;
 	width: 1226px;
 	margin:auto;
+	overflow: hidden;
 }
 /*标题*/
 .xmshangou_title{
@@ -104,11 +105,28 @@
 .xmshangou-name,.xmshangou-money{
 	text-align: center;
 }
-.xmshangou-ms{
+.xmshangou-money{
 	color: orange;
+}
+.xmshangou-ms{
+	color:white;
 	height: 20px;
 	width: 66px;
-	border: 1px solid red;
+	background: red;
+	margin: auto;
+	text-align: center;
+}
+.xmshangou-none{
+	height: 20px;
+	width: 66px;
+	margin: auto;
+	text-align: center;
+}
+.xmshangou-new{
+	color:white;
+	height: 20px;
+	width: 66px;
+	background:limegreen;
 	margin: auto;
 	text-align: center;
 }

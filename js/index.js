@@ -20,7 +20,7 @@ $('.navli').hover(function(){
 });
 
 //时间
-   var starttime = new Date("2018-10-01 22:00:00");
+   var starttime = new Date("9999-10-01 22:00:00");
   setInterval(function () {
     var nowtime = new Date();
     var time = starttime - nowtime;

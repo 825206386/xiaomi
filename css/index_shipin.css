@@ -2,6 +2,7 @@
 	height: 370px;
 	width: 1226px;
 	margin:auto;
+	overflow: hidden;
 }
 .shipinbox li{
 	width: 296px;
@@ -48,9 +49,9 @@
 	position: absolute;
 	top: 50px;
 	left: 50%;
-	margin-left: -427px;
+	margin-left: -320px;
 	height: 536px;
-	width: 854px;
+	width:640px;
 	background: #FFFFFF;
 	z-index:100;
 }

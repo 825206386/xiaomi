@@ -2,7 +2,7 @@
 	height: 472px;
 	width: 1226px;
 	margin:auto;
-	
+	overflow: hidden;
 }
 .renpingchanpin_ul>li{
 	width: 296px;
